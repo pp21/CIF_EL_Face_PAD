@@ -1,4 +1,4 @@
-# Implementation of MassyHNU team's method at ChaLearn Face Anti-spoofing Attack Detection Challenge @ CVPR2019
+# Implementation of MassyHNU team's method for ChaLearn Face Anti-spoofing Attack Detection Challenge @ CVPR2019
 
 Usage
 =====
