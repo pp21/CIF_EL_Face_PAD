@@ -3,7 +3,7 @@
 Usage
 =====
 
-Please set your training and testing dataset paths in "demo.m" at Line 4 and Line 5, respectively. Then, please run "demo.m" to get our results.
+Please set your training and testing dataset paths in "demo.m" at Line 4 and Line 5, respectively. Then, please run "demo.m" to reproduce our results.
 
 Contact
 ============
